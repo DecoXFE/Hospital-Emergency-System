@@ -22,3 +22,8 @@ git clone https://github.com/DecoXFE/Hospital-Emergency-System
 cd Hospital-Emergency-System
 ```
 2. Run the application with your preferred IDE.
+
+## Authors✍ ✍️
+Diego Valladolid
+Alejandro Garabito
+Elena Martinez
