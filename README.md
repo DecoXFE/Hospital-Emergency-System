@@ -26,4 +26,4 @@ cd Hospital-Emergency-System
 ## Authors✍ ✍️
 Diego Valladolid
 Alejandro Garabito
-Elena Martinez
+Elena Martínez
